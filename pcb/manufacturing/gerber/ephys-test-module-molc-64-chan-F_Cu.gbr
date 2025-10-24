@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.3*%
-%TF.CreationDate,2025-10-01T18:20:22-04:00*%
-%TF.ProjectId,ephys-test-module-molc-64-chan,65706879-732d-4746-9573-742d6d6f6475,A*%
+%TF.CreationDate,2025-10-24T12:13:40-04:00*%
+%TF.ProjectId,ephys-test-module-molc-64-chan,65706879-732d-4746-9573-742d6d6f6475,B*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L1,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.3) date 2025-10-01 18:20:22*
+G04 Created by KiCad (PCBNEW 9.0.3) date 2025-10-24 12:13:40*
 %MOMM*%
 %LPD*%
 G01*
@@ -81,35 +81,35 @@ X123710000Y-120000000D03*
 %TD*%
 D12*
 %TO.P,J1,A1,A1*%
-%TO.N,/Headstage Interface/B8.E_{0}*%
+%TO.N,/Headstage Interface/E24*%
 X159905000Y-97000000D03*
 D13*
 %TO.P,J1,A2,A2*%
-%TO.N,/Headstage Interface/B8.E_{1}*%
+%TO.N,/Headstage Interface/E25*%
 X159905000Y-98270000D03*
 %TO.P,J1,A3,A3*%
-%TO.N,/Headstage Interface/B8.E_{2}*%
+%TO.N,/Headstage Interface/E26*%
 X159905000Y-99540000D03*
 %TO.P,J1,A4,A4*%
-%TO.N,/Headstage Interface/B8.E_{3}*%
+%TO.N,/Headstage Interface/E27*%
 X159905000Y-100810000D03*
 %TO.P,J1,A5,A5*%
-%TO.N,/Headstage Interface/B8.E_{5}*%
+%TO.N,/Headstage Interface/E28*%
 X159905000Y-102080000D03*
 %TO.P,J1,A6,A6*%
-%TO.N,/Headstage Interface/B8.E_{7}*%
+%TO.N,/Headstage Interface/E30*%
 X159905000Y-103350000D03*
 %TO.P,J1,A7,A7*%
-%TO.N,/Headstage Interface/B9.E_{1}*%
+%TO.N,/Headstage Interface/E16*%
 X159905000Y-104620000D03*
 %TO.P,J1,A8,A8*%
-%TO.N,/Headstage Interface/B9.E_{3}*%
+%TO.N,/Headstage Interface/E18*%
 X159905000Y-105890000D03*
 %TO.P,J1,A9,A9*%
-%TO.N,/Headstage Interface/B9.E_{5}*%
+%TO.N,/Headstage Interface/E20*%
 X159905000Y-107160000D03*
 %TO.P,J1,A10,A10*%
-%TO.N,/Headstage Interface/B9.E_{7}*%
+%TO.N,/Headstage Interface/E22*%
 X159905000Y-108430000D03*
 %TO.P,J1,B1,B1*%
 %TO.N,REF*%
@@ -124,22 +124,22 @@ X158635000Y-99540000D03*
 %TO.N,unconnected-(J1-PadB4)*%
 X158635000Y-100810000D03*
 %TO.P,J1,B5,B5*%
-%TO.N,/Headstage Interface/B8.E_{4}*%
+%TO.N,/Headstage Interface/E29*%
 X158635000Y-102080000D03*
 %TO.P,J1,B6,B6*%
-%TO.N,/Headstage Interface/B8.E_{6}*%
+%TO.N,/Headstage Interface/E31*%
 X158635000Y-103350000D03*
 %TO.P,J1,B7,B7*%
-%TO.N,/Headstage Interface/B9.E_{0}*%
+%TO.N,/Headstage Interface/E17*%
 X158635000Y-104620000D03*
 %TO.P,J1,B8,B8*%
-%TO.N,/Headstage Interface/B9.E_{2}*%
+%TO.N,/Headstage Interface/E19*%
 X158635000Y-105890000D03*
 %TO.P,J1,B9,B9*%
-%TO.N,/Headstage Interface/B9.E_{4}*%
+%TO.N,/Headstage Interface/E21*%
 X158635000Y-107160000D03*
 %TO.P,J1,B10,B10*%
-%TO.N,/Headstage Interface/B9.E_{6}*%
+%TO.N,/Headstage Interface/E23*%
 X158635000Y-108430000D03*
 %TO.P,J1,C1,C1*%
 %TO.N,REF*%
@@ -154,52 +154,52 @@ X157365000Y-99540000D03*
 %TO.N,unconnected-(J1-PadC4)*%
 X157365000Y-100810000D03*
 %TO.P,J1,C5,C5*%
-%TO.N,/Headstage Interface/B4.E_{4}*%
+%TO.N,/Headstage Interface/E4*%
 X157365000Y-102080000D03*
 %TO.P,J1,C6,C6*%
-%TO.N,/Headstage Interface/B4.E_{6}*%
+%TO.N,/Headstage Interface/E6*%
 X157365000Y-103350000D03*
 %TO.P,J1,C7,C7*%
-%TO.N,/Headstage Interface/B5.E_{0}*%
+%TO.N,/Headstage Interface/E8*%
 X157365000Y-104620000D03*
 %TO.P,J1,C8,C8*%
-%TO.N,/Headstage Interface/B5.E_{2}*%
+%TO.N,/Headstage Interface/E10*%
 X157365000Y-105890000D03*
 %TO.P,J1,C9,C9*%
-%TO.N,/Headstage Interface/B5.E_{4}*%
+%TO.N,/Headstage Interface/E12*%
 X157365000Y-107160000D03*
 %TO.P,J1,C10,C10*%
-%TO.N,/Headstage Interface/B5.E_{6}*%
+%TO.N,/Headstage Interface/E14*%
 X157365000Y-108430000D03*
 %TO.P,J1,D1,D1*%
-%TO.N,/Headstage Interface/B4.E_{0}*%
+%TO.N,/Headstage Interface/E0*%
 X156095000Y-97000000D03*
 %TO.P,J1,D2,D2*%
-%TO.N,/Headstage Interface/B4.E_{1}*%
+%TO.N,/Headstage Interface/E1*%
 X156095000Y-98270000D03*
 %TO.P,J1,D3,D3*%
-%TO.N,/Headstage Interface/B4.E_{2}*%
+%TO.N,/Headstage Interface/E2*%
 X156095000Y-99540000D03*
 %TO.P,J1,D4,D4*%
-%TO.N,/Headstage Interface/B4.E_{3}*%
+%TO.N,/Headstage Interface/E3*%
 X156095000Y-100810000D03*
 %TO.P,J1,D5,D5*%
-%TO.N,/Headstage Interface/B4.E_{5}*%
+%TO.N,/Headstage Interface/E5*%
 X156095000Y-102080000D03*
 %TO.P,J1,D6,D6*%
-%TO.N,/Headstage Interface/B4.E_{7}*%
+%TO.N,/Headstage Interface/E7*%
 X156095000Y-103350000D03*
 %TO.P,J1,D7,D7*%
-%TO.N,/Headstage Interface/B5.E_{1}*%
+%TO.N,/Headstage Interface/E9*%
 X156095000Y-104620000D03*
 %TO.P,J1,D8,D8*%
-%TO.N,/Headstage Interface/B5.E_{3}*%
+%TO.N,/Headstage Interface/E11*%
 X156095000Y-105890000D03*
 %TO.P,J1,D9,D9*%
-%TO.N,/Headstage Interface/B5.E_{5}*%
+%TO.N,/Headstage Interface/E13*%
 X156095000Y-107160000D03*
 %TO.P,J1,D10,D10*%
-%TO.N,/Headstage Interface/B5.E_{7}*%
+%TO.N,/Headstage Interface/E15*%
 X156095000Y-108430000D03*
 %TD*%
 D11*
@@ -243,35 +243,35 @@ X125110000Y-118800000D03*
 %TD*%
 D12*
 %TO.P,J2,A1,A1*%
-%TO.N,/Headstage Interface/B10.E_{0}*%
+%TO.N,/Headstage Interface/E56*%
 X159905000Y-114000000D03*
 D13*
 %TO.P,J2,A2,A2*%
-%TO.N,/Headstage Interface/B10.E_{1}*%
+%TO.N,/Headstage Interface/E57*%
 X159905000Y-115270000D03*
 %TO.P,J2,A3,A3*%
-%TO.N,/Headstage Interface/B10.E_{2}*%
+%TO.N,/Headstage Interface/E58*%
 X159905000Y-116540000D03*
 %TO.P,J2,A4,A4*%
-%TO.N,/Headstage Interface/B10.E_{3}*%
+%TO.N,/Headstage Interface/E59*%
 X159905000Y-117810000D03*
 %TO.P,J2,A5,A5*%
-%TO.N,/Headstage Interface/B10.E_{5}*%
+%TO.N,/Headstage Interface/E60*%
 X159905000Y-119080000D03*
 %TO.P,J2,A6,A6*%
-%TO.N,/Headstage Interface/B10.E_{7}*%
+%TO.N,/Headstage Interface/E62*%
 X159905000Y-120350000D03*
 %TO.P,J2,A7,A7*%
-%TO.N,/Headstage Interface/B11.E_{1}*%
+%TO.N,/Headstage Interface/E48*%
 X159905000Y-121620000D03*
 %TO.P,J2,A8,A8*%
-%TO.N,/Headstage Interface/B11.E_{3}*%
+%TO.N,/Headstage Interface/E50*%
 X159905000Y-122890000D03*
 %TO.P,J2,A9,A9*%
-%TO.N,/Headstage Interface/B11.E_{5}*%
+%TO.N,/Headstage Interface/E52*%
 X159905000Y-124160000D03*
 %TO.P,J2,A10,A10*%
-%TO.N,/Headstage Interface/B11.E_{7}*%
+%TO.N,/Headstage Interface/E54*%
 X159905000Y-125430000D03*
 %TO.P,J2,B1,B1*%
 %TO.N,REF*%
@@ -286,22 +286,22 @@ X158635000Y-116540000D03*
 %TO.N,unconnected-(J2-PadB4)*%
 X158635000Y-117810000D03*
 %TO.P,J2,B5,B5*%
-%TO.N,/Headstage Interface/B10.E_{4}*%
+%TO.N,/Headstage Interface/E61*%
 X158635000Y-119080000D03*
 %TO.P,J2,B6,B6*%
-%TO.N,/Headstage Interface/B10.E_{6}*%
+%TO.N,/Headstage Interface/E63*%
 X158635000Y-120350000D03*
 %TO.P,J2,B7,B7*%
-%TO.N,/Headstage Interface/B11.E_{0}*%
+%TO.N,/Headstage Interface/E49*%
 X158635000Y-121620000D03*
 %TO.P,J2,B8,B8*%
-%TO.N,/Headstage Interface/B11.E_{2}*%
+%TO.N,/Headstage Interface/E51*%
 X158635000Y-122890000D03*
 %TO.P,J2,B9,B9*%
-%TO.N,/Headstage Interface/B11.E_{4}*%
+%TO.N,/Headstage Interface/E53*%
 X158635000Y-124160000D03*
 %TO.P,J2,B10,B10*%
-%TO.N,/Headstage Interface/B11.E_{6}*%
+%TO.N,/Headstage Interface/E55*%
 X158635000Y-125430000D03*
 %TO.P,J2,C1,C1*%
 %TO.N,REF*%
@@ -316,52 +316,52 @@ X157365000Y-116540000D03*
 %TO.N,unconnected-(J2-PadC4)*%
 X157365000Y-117810000D03*
 %TO.P,J2,C5,C5*%
-%TO.N,/Headstage Interface/B6.E_{4}*%
+%TO.N,/Headstage Interface/E36*%
 X157365000Y-119080000D03*
 %TO.P,J2,C6,C6*%
-%TO.N,/Headstage Interface/B6.E_{6}*%
+%TO.N,/Headstage Interface/E38*%
 X157365000Y-120350000D03*
 %TO.P,J2,C7,C7*%
-%TO.N,/Headstage Interface/B7.E_{0}*%
+%TO.N,/Headstage Interface/E40*%
 X157365000Y-121620000D03*
 %TO.P,J2,C8,C8*%
-%TO.N,/Headstage Interface/B7.E_{2}*%
+%TO.N,/Headstage Interface/E42*%
 X157365000Y-122890000D03*
 %TO.P,J2,C9,C9*%
-%TO.N,/Headstage Interface/B7.E_{4}*%
+%TO.N,/Headstage Interface/E44*%
 X157365000Y-124160000D03*
 %TO.P,J2,C10,C10*%
-%TO.N,/Headstage Interface/B7.E_{6}*%
+%TO.N,/Headstage Interface/E46*%
 X157365000Y-125430000D03*
 %TO.P,J2,D1,D1*%
-%TO.N,/Headstage Interface/B6.E_{0}*%
+%TO.N,/Headstage Interface/E32*%
 X156095000Y-114000000D03*
 %TO.P,J2,D2,D2*%
-%TO.N,/Headstage Interface/B6.E_{1}*%
+%TO.N,/Headstage Interface/E33*%
 X156095000Y-115270000D03*
 %TO.P,J2,D3,D3*%
-%TO.N,/Headstage Interface/B6.E_{2}*%
+%TO.N,/Headstage Interface/E34*%
 X156095000Y-116540000D03*
 %TO.P,J2,D4,D4*%
-%TO.N,/Headstage Interface/B6.E_{3}*%
+%TO.N,/Headstage Interface/E35*%
 X156095000Y-117810000D03*
 %TO.P,J2,D5,D5*%
-%TO.N,/Headstage Interface/B6.E_{5}*%
+%TO.N,/Headstage Interface/E37*%
 X156095000Y-119080000D03*
 %TO.P,J2,D6,D6*%
-%TO.N,/Headstage Interface/B6.E_{7}*%
+%TO.N,/Headstage Interface/E39*%
 X156095000Y-120350000D03*
 %TO.P,J2,D7,D7*%
-%TO.N,/Headstage Interface/B7.E_{1}*%
+%TO.N,/Headstage Interface/E41*%
 X156095000Y-121620000D03*
 %TO.P,J2,D8,D8*%
-%TO.N,/Headstage Interface/B7.E_{3}*%
+%TO.N,/Headstage Interface/E43*%
 X156095000Y-122890000D03*
 %TO.P,J2,D9,D9*%
-%TO.N,/Headstage Interface/B7.E_{5}*%
+%TO.N,/Headstage Interface/E45*%
 X156095000Y-124160000D03*
 %TO.P,J2,D10,D10*%
-%TO.N,/Headstage Interface/B7.E_{7}*%
+%TO.N,/Headstage Interface/E47*%
 X156095000Y-125430000D03*
 %TD*%
 D15*
@@ -374,6 +374,18 @@ X119700000Y-126180000D03*
 %TD*%
 D16*
 %TO.N,GND*%
+X177000000Y-101400000D03*
+X171200000Y-117000000D03*
+X165100000Y-120000000D03*
+X182400000Y-117000000D03*
+X187000000Y-107000000D03*
+X165700000Y-103000000D03*
+X177600000Y-123300000D03*
+X187000000Y-92400000D03*
+X177100000Y-92500000D03*
+X170800000Y-107600000D03*
+X180700000Y-107500000D03*
+X165800000Y-111000000D03*
 X150200000Y-111000000D03*
 X201725000Y-119470000D03*
 X113500000Y-81700000D03*
@@ -381,40 +393,31 @@ X128900000Y-99600000D03*
 X113269807Y-112500000D03*
 X133600000Y-117000000D03*
 X161400000Y-132300000D03*
-X165865388Y-110178839D03*
-X187500000Y-92500000D03*
 X135000000Y-80800000D03*
 X138400000Y-123300000D03*
 X162500000Y-90500000D03*
 X148400000Y-81100000D03*
 X135300000Y-107500000D03*
-X172900000Y-92900000D03*
 X113800000Y-133900000D03*
-X146300000Y-107200000D03*
-X187200000Y-99600000D03*
+X145200000Y-107600000D03*
 X179700000Y-132600000D03*
 X203200000Y-107500000D03*
-X171300000Y-118500000D03*
-X141400000Y-92500000D03*
-X181700000Y-107600000D03*
-X174200000Y-101700000D03*
-X152600000Y-102900000D03*
-X187500000Y-106800000D03*
-X140800000Y-101400000D03*
+X138900000Y-92500000D03*
+X150300000Y-103000000D03*
+X139000000Y-101400000D03*
 X160800000Y-109700000D03*
 X128900000Y-133600000D03*
-X140300000Y-112600000D03*
+X144800000Y-117000000D03*
 X113100000Y-94400000D03*
 X203000000Y-80900000D03*
 X154400000Y-111100000D03*
 X193900000Y-134700000D03*
 X154900000Y-92600000D03*
 X163400000Y-102900000D03*
-X184300000Y-116500000D03*
 X202900000Y-91100000D03*
 X129000000Y-107000000D03*
 X129000000Y-92400000D03*
-X146500000Y-119000000D03*
+X150900000Y-120000000D03*
 X184900000Y-80200000D03*
 X174067445Y-80221652D03*
 X150700000Y-129400000D03*
