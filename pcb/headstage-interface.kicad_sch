@@ -9401,6 +9401,24 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 69.85 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 69.85 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "5a19d877-bb3f-4166-a284-820f23e182ae")
 		)
@@ -9512,6 +9530,24 @@
 			)
 		)
 		(property "MPN" "YC248-JR-07220KL"
+			(at 59.69 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 59.69 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 59.69 58.42 90)
 			(effects
 				(font
@@ -9639,6 +9675,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MOLC-110-01-S-Q_1"
+			(at 110.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 110.49 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -9833,6 +9887,24 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 151.13 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 151.13 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "811f756e-1767-4883-a411-f0a39746aa7b")
 		)
@@ -9952,6 +10024,24 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 161.29 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 161.29 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "6061b66b-4c98-4709-bb4e-bd906e05abdc")
 		)
@@ -10019,20 +10109,19 @@
 		(dnp no)
 		(uuid "86245fb4-a46e-40da-934d-eb0281557792")
 		(property "Reference" "J3"
-			(at 93.98 172.72 0)
+			(at 93.98 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "Conn_02x02_Odd_Even"
+		(property "Value" "M20-8760242"
 			(at 93.98 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x02_P2.54mm_Vertical_SMD"
@@ -10081,6 +10170,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070099"
+			(at 92.71 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 92.71 175.26 0)
 			(effects
 				(font
@@ -10164,6 +10262,24 @@
 			)
 		)
 		(property "MPN" "YC248-JR-07220KL"
+			(at 161.29 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 161.29 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 161.29 78.74 90)
 			(effects
 				(font
@@ -10291,6 +10407,24 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MOLC-110-01-S-Q_1"
+			(at 110.49 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 110.49 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -10485,6 +10619,24 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 69.85 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 69.85 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "99a3e1be-f33d-4247-97d4-be47c9f929e8")
 		)
@@ -10604,6 +10756,24 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 59.69 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
+			(at 59.69 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "12"
 			(uuid "a2142779-4075-4963-bb83-bf1a33849b9b")
 		)
@@ -10715,6 +10885,24 @@
 			)
 		)
 		(property "MPN" "YC248-JR-07220KL"
+			(at 151.13 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 151.13 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Tolerance" "5%"
 			(at 151.13 99.06 90)
 			(effects
 				(font
