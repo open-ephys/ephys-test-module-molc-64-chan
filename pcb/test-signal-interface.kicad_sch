@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Ephys Test Module - 64 Channel (MOLC)")
-		(rev "A")
+		(rev "B")
 		(company "Open Ephys, Inc.")
 	)
 	(lib_symbols
@@ -9715,6 +9715,15 @@
 				(hide yes)
 			)
 		)
+		(property "Temp. Co." ""
+			(at 91.44 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f94789a6-3cef-49c3-abc1-87722bc40345")
 		)
@@ -10121,6 +10130,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS070100"
+			(at 196.85 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 196.85 76.2 0)
 			(effects
 				(font
@@ -10601,7 +10619,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10640,7 +10657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 60.96 162.56 0)
 			(effects
 				(font
@@ -10668,6 +10685,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS020027"
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 60.96 162.56 0)
 			(effects
 				(font
@@ -10714,7 +10740,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10753,7 +10778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 69.85 162.56 0)
 			(effects
 				(font
@@ -10781,6 +10806,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS020027"
+			(at 69.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 69.85 162.56 0)
 			(effects
 				(font
@@ -10827,7 +10861,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
@@ -10866,7 +10899,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "1%"
 			(at 78.74 162.56 0)
 			(effects
 				(font
@@ -10894,6 +10927,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS020027"
+			(at 78.74 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 78.74 162.56 0)
 			(effects
 				(font
@@ -11133,6 +11175,15 @@
 			)
 		)
 		(property "OEPSPN" "OEPS080150"
+			(at 107.95 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
 			(at 107.95 172.72 0)
 			(effects
 				(font
@@ -11561,15 +11612,6 @@
 				(hide yes)
 			)
 		)
-		(property "TempCo" "X7R"
-			(at 115.57 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "Voltage" ""
 			(at 115.57 162.56 0)
 			(effects
@@ -11579,7 +11621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Tolerance" ""
+		(property "Tolerance" "X5R"
 			(at 115.57 162.56 0)
 			(effects
 				(font
@@ -11608,6 +11650,15 @@
 		)
 		(property "OEPSPN" "OEPS010066"
 			(at 115.57 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Temp. Co." ""
+			(at 115.57 162.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
